@@ -17,3 +17,19 @@ git status -s
 git commit -m "Versio 3"
 git push
 
+Versio 4
+
+git branch p1_1
+git branch
+git checkout p1_1
+git add .
+git checkout master
+git merge p1_1
+git Branch -d p1_1
+git commit -m "Versio 4"
+git push
+
+Versio 5
+git add .
+git commit -m "Versio 5"
+
