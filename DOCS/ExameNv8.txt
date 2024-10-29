@@ -1,0 +1,8 @@
+Versio 8
+
+git checkout master
+git merge mywork
+git Branch -d mywork
+git add .
+git commit -m "Versio 8"
+git push
