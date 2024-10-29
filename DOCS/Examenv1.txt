@@ -33,3 +33,8 @@ Versio 5
 git add .
 git commit -m "Versio 5"
 
+Versio 6
+git branch mywork
+git checkout mywork
+git add .
+git commit -m "Versio 6"
