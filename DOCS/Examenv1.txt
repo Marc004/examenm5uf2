@@ -38,3 +38,4 @@ git branch mywork
 git checkout mywork
 git add .
 git commit -m "Versio 6"
+git push --set-upstream origin mywork
