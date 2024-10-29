@@ -14,6 +14,6 @@ Versio 3
 
 git add . 
 git status -s
-git push
 git commit -m "Versio 3"
+git push
 
